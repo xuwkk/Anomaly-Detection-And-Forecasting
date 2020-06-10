@@ -12,3 +12,6 @@
 ### Aplication
 * Time Series in Python — Part 3: Forecasting taxi trips with LSTMs: https://towardsdatascience.com/time-series-in-python-part-3-forecasting-taxi-trips-with-lstms-277afd4f811
 * LSTM Autoencoder for Extreme Rare Event Classification in Keras: https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb
+
+## Other Paper
+* Test system load profile: Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
