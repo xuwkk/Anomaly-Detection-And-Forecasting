@@ -2,7 +2,7 @@
 ## Useful Paper
 
 ### Fundamental Theories:
-* Gal, Yarin, and Zoubin Ghahramani. "A theoretically grounded application of dropout in recurrent neural networks." Advances in neural information processing systems. 2016.
+* **Using dropout in Bayesian inference:**Gal, Yarin, and Zoubin Ghahramani. "A theoretically grounded application of dropout in recurrent neural networks." Advances in neural information processing systems. 2016.
 
 ### Hybrid Model
 * L. Zhu and N. Laptev, "Deep and Confident Prediction for Time Series at Uber," 2017 IEEE International Conference on Data Mining Workshops (ICDMW), New Orleans, LA, 2017, pp. 103-110, doi: 10.1109/ICDMW.2017.19.
