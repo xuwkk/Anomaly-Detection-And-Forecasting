@@ -12,9 +12,10 @@
 ### Objective-Based Unsupervised Method:
 * Vincent, Pascal, et al. "Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion." Journal of machine learning research 11.Dec (2010): 3371-3408.
 * Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhudinov. "Unsupervised learning of video representations using lstms." International conference on machine learning. 2015.
+* Ruff, Lukas, et al. "Deep one-class classification." International conference on machine learning. 2018.
 ### Power System
 * * Test system load profile: Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
-## Useful Blog
+## Useful Blogs
 ### Theory
 * Step-by-step understanding LSTM Autoencoder layers: https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
 * A Gentle Introduction to LSTM Autoencoders: https://machinelearningmastery.com/lstm-autoencoders/
