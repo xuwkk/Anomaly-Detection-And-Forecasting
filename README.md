@@ -3,8 +3,10 @@
 
 ### Fundamental Theories:
 * Using dropout in Bayesian inference: Gal, Yarin, and Zoubin Ghahramani. "A theoretically grounded application of dropout in recurrent neural networks." Advances in neural information processing systems. 2016.
-
-### Hybrid Model
+* Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.
+* Bengio, Yoshua, et al. "Greedy layer-wise training of deep networks." Advances in neural information processing systems. 2007
+* Erhan, Dumitru, et al. "Why does unsupervised pre-training help deep learning?." Journal of Machine Learning Research 11.Feb (2010): 625-660.
+### Hybrid Model and Different AEs
 * L. Zhu and N. Laptev, "Deep and Confident Prediction for Time Series at Uber," 2017 IEEE International Conference on Data Mining Workshops (ICDMW), New Orleans, LA, 2017, pp. 103-110, doi: 10.1109/ICDMW.2017.19.
 * Laptev, Nikolay, et al. "Time-series extreme event forecasting with neural networks at uber." International Conference on Machine Learning. Vol. 34. 2017.
 * Sagheer, Alaa, and Mostafa Kotb. "Unsupervised pre-training of a Deep LStM-based Stacked Autoencoder for Multivariate time Series forecasting problems." Scientific Reports 9.1 (2019): 1-16.
