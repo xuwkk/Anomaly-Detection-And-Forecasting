@@ -18,7 +18,8 @@
 * Ruff, Lukas, et al. "Deep one-class classification." International conference on machine learning. 2018. https://github.com/lukasruff/Deep-SVDD
 * Makhzani, Alireza, and Brendan Frey. "K-sparse autoencoders." arXiv preprint arXiv:1312.5663 (2013).
 ### Power System
-* Test system load profile: Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
+* Test system load profile 1 (artificial example): Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
+* Test system load profile 2 (more realistic): "Open Power System Data. 2019. Data Package Time series. Version 2019-06-05. https://doi.org/10.25832/time_series/2019-06-05. (Primary data from various sources, for a complete list see URL)."
 ## Useful Blogs
 ### Theory
 * Step-by-step understanding LSTM Autoencoder layers: https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
