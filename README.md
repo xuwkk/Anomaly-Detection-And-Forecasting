@@ -31,7 +31,6 @@
 ### Deep Learning
 * Martinelli, Marco, et al. "Electric power system anomaly detection using neural networks." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Springer, Berlin, Heidelberg, 2004.
 * Sayghe, Ali, Junbo Zhao, and Charalambos Konstantinou. "Evasion Attacks with Adversarial Deep Learning Against Power System State Estimation."
-
 ## Useful Blogs
 ### Theory
 * Step-by-step understanding LSTM Autoencoder layers: https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
