@@ -1,5 +1,5 @@
 # Anomaly-Detection-And-Forecasting
-## Useful Paper
+## Deep Learning Paper
 
 ### Fundamental Theories:
 * Using dropout in Bayesian inference: Gal, Yarin, and Zoubin Ghahramani. "A theoretically grounded application of dropout in recurrent neural networks." Advances in neural information processing systems. 2016.
@@ -20,12 +20,17 @@
 * Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhudinov. "Unsupervised learning of video representations using lstms." International conference on machine learning. 2015.
 * Ruff, Lukas, et al. "Deep one-class classification." International conference on machine learning. 2018. https://github.com/lukasruff/Deep-SVDD
 * Makhzani, Alireza, and Brendan Frey. "K-sparse autoencoders." arXiv preprint arXiv:1312.5663 (2013).
-### Power System (Both Deep Learning and State-of-Art Machine Learning)
-* Singh, Sandeep Kumar, et al. "Joint-transformation-based detection of false data injection attacks in smart grid." IEEE Transactions on Industrial Informatics 14.1 (2017): 89-97.
+## Power System 
+
+### Fundamental
 * Test system load profile 1 (artificial example): Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
 * Test system load profile 2 (more realistic): "Open Power System Data. 2019. Data Package Time series. Version 2019-06-05. https://doi.org/10.25832/time_series/2019-06-05. (Primary data from various sources, for a complete list see URL)."
+### State_of-Art Machine Learning 
+* Singh, Sandeep Kumar, et al. "Joint-transformation-based detection of false data injection attacks in smart grid." IEEE Transactions on Industrial Informatics 14.1 (2017): 89-97.
 * S. Ahmed, Y. Lee, S. Hyun and I. Koo, "Unsupervised Machine Learning-Based Detection of Covert Data Integrity Assault in Smart Grid Networks Utilizing Isolation Forest," in IEEE Transactions on Information Forensics and Security, vol. 14, no. 10, pp. 2765-2777, Oct. 2019, doi: 10.1109/TIFS.2019.2902822.
+### Deep Learning
 * Martinelli, Marco, et al. "Electric power system anomaly detection using neural networks." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Springer, Berlin, Heidelberg, 2004.
+* Sayghe, Ali, Junbo Zhao, and Charalambos Konstantinou. "Evasion Attacks with Adversarial Deep Learning Against Power System State Estimation."
 
 ## Useful Blogs
 ### Theory
