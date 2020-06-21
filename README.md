@@ -28,6 +28,8 @@
 ### State_of-Art Machine Learning 
 * Singh, Sandeep Kumar, et al. "Joint-transformation-based detection of false data injection attacks in smart grid." IEEE Transactions on Industrial Informatics 14.1 (2017): 89-97.
 * S. Ahmed, Y. Lee, S. Hyun and I. Koo, "Unsupervised Machine Learning-Based Detection of Covert Data Integrity Assault in Smart Grid Networks Utilizing Isolation Forest," in IEEE Transactions on Information Forensics and Security, vol. 14, no. 10, pp. 2765-2777, Oct. 2019, doi: 10.1109/TIFS.2019.2902822.
+* M. Ozay, I. Esnaola, F. T. Yarman Vural, S. R. Kulkarni and H. Vincent Poor, "Smarter security in the smart grid," 2012 IEEE Third International Conference on Smart Grid Communications (SmartGridComm), Tainan, 2012, pp. 312-317, doi: 10.1109/SmartGridComm.2012.6486002.
+* Ozay, Mete, et al. "Machine learning methods for attack detection in the smart grid." IEEE transactions on neural networks and learning systems 27.8 (2015): 1773-1786.
 ### Deep Learning
 * Martinelli, Marco, et al. "Electric power system anomaly detection using neural networks." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Springer, Berlin, Heidelberg, 2004.
 * Sayghe, Ali, Junbo Zhao, and Charalambos Konstantinou. "Evasion Attacks with Adversarial Deep Learning Against Power System State Estimation."
