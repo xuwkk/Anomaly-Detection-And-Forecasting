@@ -25,11 +25,12 @@
 ### Fundamental
 * Test system load profile 1 (artificial example): Z. Zhuo et al., "Transmission Expansion Planning Test System for AC/DC Hybrid Grid With High Variable Renewable Energy Penetration," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2019.2959508. https://github.com/Karl-Zhuo/Dataset-of-HRP-38-test-system
 * Test system load profile 2 (more realistic): "Open Power System Data. 2019. Data Package Time series. Version 2019-06-05. https://doi.org/10.25832/time_series/2019-06-05. (Primary data from various sources, for a complete list see URL)."
-### State_of-Art Machine Learning 
+### State-of-Art Machine Learning 
 * Singh, Sandeep Kumar, et al. "Joint-transformation-based detection of false data injection attacks in smart grid." IEEE Transactions on Industrial Informatics 14.1 (2017): 89-97.
 * S. Ahmed, Y. Lee, S. Hyun and I. Koo, "Unsupervised Machine Learning-Based Detection of Covert Data Integrity Assault in Smart Grid Networks Utilizing Isolation Forest," in IEEE Transactions on Information Forensics and Security, vol. 14, no. 10, pp. 2765-2777, Oct. 2019, doi: 10.1109/TIFS.2019.2902822.
 * M. Ozay, I. Esnaola, F. T. Yarman Vural, S. R. Kulkarni and H. Vincent Poor, "Smarter security in the smart grid," 2012 IEEE Third International Conference on Smart Grid Communications (SmartGridComm), Tainan, 2012, pp. 312-317, doi: 10.1109/SmartGridComm.2012.6486002.
 * Ozay, Mete, et al. "Machine learning methods for attack detection in the smart grid." IEEE transactions on neural networks and learning systems 27.8 (2015): 1773-1786.
+* S. A. Foroutan and F. R. Salmasi, "Detection of false data injection attacks against state estimation in smart grids based on a mixture Gaussian distribution learning method," in IET Cyber-Physical Systems: Theory & Applications, vol. 2, no. 4, pp. 161-171, 12 2017, doi: 10.1049/iet-cps.2017.0013.
 ### Deep Learning
 * Martinelli, Marco, et al. "Electric power system anomaly detection using neural networks." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Springer, Berlin, Heidelberg, 2004.
 * Sayghe, Ali, Junbo Zhao, and Charalambos Konstantinou. "Evasion Attacks with Adversarial Deep Learning Against Power System State Estimation."
