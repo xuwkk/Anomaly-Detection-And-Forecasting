@@ -46,6 +46,11 @@
 * Time Series in Python — Part 3: Forecasting taxi trips with LSTMs: https://towardsdatascience.com/time-series-in-python-part-3-forecasting-taxi-trips-with-lstms-277afd4f811
 * LSTM Autoencoder for Extreme Rare Event Classification in Keras: https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb
 
+## Deal with Missing Data
+* Bianchi, Filippo Maria, et al. "Learning representations of multivariate time series with missing data." Pattern Recognition 96 (2019): 106973.
+* Gondara, Lovedeep, and Ke Wang. "Mida: Multiple imputation using denoising autoencoders." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2018.
+* Beaulieu-Jones, Brett K., and Casey S. Greene. "Semi-supervised learning of the electronic health record for phenotype stratification." Journal of biomedical informatics 64 (2016): 168-178.
+
 # State Estimation
 ## Vulnerability Assessment
 * Constante-Flores, Gonzalo E., Antonio J. Conejo, and Jiankang Wang. "Sensitivity-Based Vulnerability Assessment of State Estimation." arXiv preprint arXiv:2006.16496 (2020).
