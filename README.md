@@ -1,6 +1,9 @@
 # Anomaly-Detection-And-Forecasting
 ## Deep Learning Paper
 
+### Review Paper
+* Pang, Guansong, et al. "Deep Learning for Anomaly Detection: A Review." arXiv preprint arXiv:2007.02500 (2020).
+
 ### Fundamental Theories:
 * Using dropout in Bayesian inference: Gal, Yarin, and Zoubin Ghahramani. "A theoretically grounded application of dropout in recurrent neural networks." Advances in neural information processing systems. 2016.
 * Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.
